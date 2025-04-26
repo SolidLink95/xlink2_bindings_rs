@@ -1,0 +1,3 @@
+[submodule "libs/xlink"]
+	path = libs/xlink
+	url = https://github.com/dt-12345/xlink2.git
